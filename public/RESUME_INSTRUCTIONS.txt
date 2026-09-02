@@ -1,0 +1,5 @@
+RESUME FILE LOCATION: /public/resume.pdf
+
+Replace this file with Joyceria Gonsalves' actual resume PDF file named `resume.pdf`.
+
+The portfolio website's "Download Resume" buttons on the Hero, Navigation, About page, and Resume modal automatically link to `/resume.pdf`.
