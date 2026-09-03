@@ -29,7 +29,7 @@ export const App: React.FC = () => {
   const [isResumeModalOpen, setIsResumeModalOpen] = useState(false);
 
   return (
-    <Router>
+   <Router basename="/ria-portfolio">
       <ScrollToTopOnNavigate />
       <div className="min-h-screen flex flex-col bg-slate-950 text-slate-100 font-sans selection:bg-indigo-500 selection:text-white">
         
